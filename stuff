@@ -1,3 +1,34 @@
+navbar:
+  left:
+  - text: Home
+    href: index.html
+    icon: fa-home
+  - text: About
+    href: about.html
+    icon: fa-book-open
+  right:
+  - href: https://github.com/rstudio4edu
+    icon: fa-github
+  - href: https://twitter.com/rstudio
+    icon: fa-twitter
+      
+      
+    - text: "Blog"
+      icon: fa-rss
+      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      
+      https://fontawesome.com/v4/icons/
+      
+
+
+
+
+
+
+-----------
+
+
+
 name: "Dr. JUAN GABRIEL RAMÍREZ"                                # CHANGE HERE 
 output_dir: "."
 navbar:
@@ -7,15 +38,12 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "Academic"
-      icon: fa-user
-      menu:
-      - text: "Research"
-        icon: fa-area-chart
-        href: about.html
-      - text: "Publications"
-        icon: fa-file-text 
-        href: publications.html
+    - text: "About"
+      icon: fa-user 
+      href: about.html
+    - text: "Publications"
+      icon: fa-file-text 
+      href: publications.html
     - text: "Teaching"
       icon: fa-book-open
       menu:
@@ -29,15 +57,12 @@ navbar:
       icon: fa-bicycle
       href: fun.html
   right:
-    - text: "Contact"
+    - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:jgramirez@uniandes.edu.co                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/jgramirezrojas       # CHANGE HERE 
-    - text: "Podcast"
-      icon: fa-podcast
-      href: senecast.html
 output:
   html_document:
     theme: cosmo

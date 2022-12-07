@@ -2,8 +2,14 @@
 title: "CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Header
+I obtained my BS degree in Physics in 2004 from the Universidad del Valle, Cali-Colombia. I obtained my Ph.D. in Physical sciences in a collaboration with Universidad del Valle and UC San Diego in 2009.
 
-Say more about your CV here.
+My PhD thesis was in the area of Complex oxides. More specifically in the metal-insulator transition in VO~2~ at the nano-scale.
+
+
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>	
+
+- [Google Scchoolar](https://scholar.google.com/citations?hl=en&user=q0NfAgEAAAAJ)
+- [Research Gate](https://www.researchgate.net/profile/Juan-Ramirez-23)
+- [Orcid](https://orcid.org/0000-0001-8546-6966)

@@ -1,0 +1,8 @@
+---
+title: "Fun stuff"
+
+---
+
+- [10K Run tour Avianca - 2022](https://sportmaniacs.com/es/races/runtour-avianaca---colombia/638c3488-6de4-4580-908d-3707ac1f13ce/results/athlete/6156/results)
+
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/144253/latest-rides/a4e95e7487231a881543c1efabd7b61f8de68855' allow="autoplay" data-external="1"></iframe>

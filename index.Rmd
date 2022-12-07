@@ -2,4 +2,4 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
+![alt text here](images/foto_juanG_webex.png)
