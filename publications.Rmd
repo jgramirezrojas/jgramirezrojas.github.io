@@ -1,3 +1,128 @@
 ---
 title: "Publications"
 ---
+
+
+- Alexander Cardona Rodríguez, Andreas Reiber, Ivan K. Schuller, Diego Muraca, Juan Gabriel Ramírez, Evidence of a glassy magnetic transition driven by structural disorder in BiFeO3 nanoparticles, J. Magn Magn. Mater. 563, 169917 (2022)
+- James Wampler, Nelson Hua, Roopali Kukreja, Juan Gabriel Ramirez, Ali C. Basaran, Eric E. Fullerton, Oleg Shpyrko, Ivan K. Schuller, The Electromagnetic Origin of the Microwave Absorption Response of Fe3O4 Thin Films,  Phys. Rev. B 106, L060402 (2022).
+
+- E. A. Chavarriaga, Alex A. Lopera, Tiago Bender Wermuth, Sabrina Arcaro, Vinicius D. N. Bezzon, Claudia García, J. Alarcón, Juan Gabriel Ramirez, R. Moreno, Carlos Pérez Bergmann, Influence of caffeine and citrulline on magnetic properties when used as new fuels in the synthesis of CoFe2O4 nanoparticles by gel combustion. J. Magn Magn. Mater. 560  169632 (2022).
+
+- Christian T. Wolowiec, Juan Gabriel Ramírez, Min-Han Lee, Nareg Ghazikhanian, Nicolas M. Vargas, Ali C. Basaran, Pavel Salev, and Ivan K. Schuller, Stress-tailoring magnetic anisotropy of V2O3/Ni bilayers, Physical Review Materials 6, 064408 (2022).
+
+- A. Cardona-Rodríguez, E. Ramos Rodríguez, D. Carranza-Celis, N. Vergara-Duran, A.S.E. da Cruz, O. Moscoso Londoño, F. Béron, M. Knobel, A. Reiber, D. Muraca, and Juan Gabriel Ramírez, Resolving magnetic contributions in BiFeO3 nanoparticles using First-order reversal curves. J. Magn. Magn. Mater. 556, 169409 (2022).
+
+2021
+
+- D. Carranza-Celis, E. Skoropata, Amlan Biswas, M.R. Fitzsimmons, Ivan K. Schuller and Juan Gabriel Ramirez, Magnetism dynamics driven by phase separation in Pr-doped manganite thin films: A Ferromagnetic resonance study, Physical Review Materials 5, 124413 (2021).
+
+- J. J. Prías-Barragán, a, R. González-Hernández, F. A. Hoyos-Ariza, Juan Gabriel Ramírez, M. R. Ibarrad, P. Príeto, Magnetism in Graphene Oxide Nanoplatelets: the Role of Hydroxyl and Epoxy Bridges, J. Magn. Magn. Mater. 541, 168506 (2021).
+
+- Ilya Valmianski, Arantxa Fraile Rodríguez, Javier Rodríguez-Álvarez, Montse García del Muro, Christian Wolowiec1, Florian Kronast, Juan Gabriel Ramírez, Ivan K. Schuller, Amílcar Labarta and Xavier Batlle, Driving magnetic domains at the nanoscale by interfacial strain-induced proximity, Nanoscale, 13, 4985 (2021)
+
+- Heiddy P. Quiroz, E. F. Galíndez, A. Dussan, A. Cardona-Rodriguez, Juan Gabriel Ramirez, Super-Exchange Interaction Model in DMOs: Co-Doped TiO2 Thin Films, J Mater Sci 56, 581–591 (2021).
+
+- J. G. Monsalve, C. Ostos, E. Ramos, Juan GabrielRamírez, and O. Arnache, Insight into magnetic properties in zinc ferrite thin films by tuning oxygen content, Current Applied Physics 22 77-83 (2021)
+
+2020
+
+- Jorge A. Calderón, F. Mesa, A. Dussan, R. González-Hernandez, Juan Gabriel Ramirez, The effect of Mn2Sb2 and Mn2Sb secondary phases on magnetism in (GaMn)Sb thin films, PLoS ONE 15 (4): e0231538
+
+- E. Ramos, A. Cardona-Rodriguéz, D. Carranza-Celis, R. Hernández-Rodriguéz, Diego Muraca, Juan Gabriel Ramírez, Strain-controlled ferromagnetism in BiFeO3 Nanoparticles, 2020 J. Phys.: Condens. Matter 32 185703 - https://doi.org/10.1088/1361-648X/ab6b8a
+
+2019
+
+- Javier del Valle, Pavel Salev, Federico Tesler, Nicolás M. Vargas, Yoav Kalcheim, Paul Wang, Juan Trastoy, Min-Han Lee, George Kassabian, Juan Gabriel ramírez, Marcelo J. Rozenberg & Ivan K. Schuller, Subthreshold firing in Mott nanodevices, Nature 569, 388–392 (2019). View online.
+
+- Diego Carranza-Celis, Alexander Cardona Rodríguez, Jackeline Narváez, Oscar Moscoso, Diego Muraca, Marcelo Knobel, Nancy Ornelas-Soto, Andreas Reiber, Juan Gabriel Ramírez, Control of Multiferroic properties in BiFeO3 nanoparticles.  Scientific Reports 9, 3182 (2019) . 
+
+- Alexander Cardona, Isabel C. Arango, Maria F. Gomez, Claribel Dominguez, Juan Trastoy, Christian Urban, Soumitra Sulekar, Juan C. Nino, Ivan K. Schuller, Maria E. Gomez, and Juan Gabriel Ramírez, Resistive Switching in Multiferroic BiFeO3 Films: Ferroelectricity vs vacancy migration.  Solid State Communications 288 (2019) 38–42
+
+2018
+
+- J. del Valle, Juan Gabriel Ramírez, M. Rosenberg, Ivan K. Schuller, Challenges in materials and devices for Resistive-Switching-based Neuromorphic Computing, J. Appl. Phys. 124, 211101 (2018). arXiv:1812.01120.  Special Topic: New Physics and Materials for Neuromorphic Computation
+
+- I. Valmianski, P. Y. Wang, S. Wang, Juan Gabriel Ramirez, S. Guénon, Ivan K. Schuller, The origin of the current-driven breakdown in vanadium oxides: thermal vs electronic, Phys. Rev. B 98, 195144 (2018)
+
+- C. Orona-Návar Raul García-Morales, Rodrigo Rubio-Govea, Jürgen Mahlknecht, Raul Hernandez-Aranda, Juan Gabriel Ramírez, K.D.P. Nigam, Nancy Ornelas-Soto, “Adsorptive removal of emerging pollutants from groundwater by using modified titanate nanotubes,” J. Environ. Chem. Eng., vol. 6, no. 4, pp. 5332–5340, Aug. 2018.
+
+- Andrej Singer, Juan Gabriel Ramirez, Ilya Valmianski, Devin Cela, Nelson Hua, Roopali Kukreja, James Wingert, Olesya Kovalchuk, James M. Glownia, Marcin Sikiroski, Matthieu Chollet, Martin Holt, Ivan K. Schuller and Oleg G. Shpyrko, Non-equilibrium phase precursors to the insulator-metal transition in V2O3, arXiv:1709.04426, Phys. Rev. Lett. 120, 207601 (2018).
+
+2017
+
+- V. R. Singh, V. Jovic, I. Valmianski, J. G. Ramirez, B. Lamoureux, Ivan K. Schuller and K. E. Smith, Irreversible metal-insulator transition in thin film VO2 induced by soft X-ray irradiation, Appl. Phys. Lett. 111, 241605 (2017)
+
+- Dustin A. Gilbert, Juan Gabriel Ramírez, T. Saerbeck, J. Trastoy, Ivan K. Schuller, Kai Liu, and J. de la Venta, Growth-Induced In-Plane Uniaxial Anisotropy in V2O3/Ni Films, Sci. Reports 7 13471 (2017)
+
+- Elsa Abreu, Stephanie N. Gilbert Corder, Sun Jin Yun, Siming Wang, Juan Gabriel Ramirez, Kevin West, Jingdi Zhang, Salinporn Kittiwatanakul, Ivan K. Schuller, Jiwei Lu, Stuart A. Wolf, Hyun-Tak Kim, Mengkun Liu, Richard D. Averitt, "Ultrafast Electron-Lattice Coupling Dynamics in VO2 and V2O3 Thin Films", arXiv:1701.05531, Phys. Rev. B 96, 094309 (2017)
+
+- Siming Wang, Juan Gabriel Ramírez, Jonathan Jeffet, Shimshon Bar-Ad, Dan Huppert, Ivan K. Schuller, Ultrafast photo-induced dynamics across the Metal-Insulator Transition of VO2, EPL, 118, 27005 (2017) 
+
+- I. Valmianski, Juan Gabriel Ramirez, C. Urban, X. Batlle, and Ivan K. Schuller, Deviation from bulk in the pressure-temperature phase diagram of V2O3 thin films, Phys. Rev. B 95, 155132 (2017).
+
+2016
+
+- A. S. McLeod, E. van Heumen, J. G. Ramirez, S. Wang, T. Saerbeck, S. Guenon, M. Goldflam, L. Anderegg, P. Kelly, A. Mueller, M. K. Liu, Ivan K. Schuller and D. N. Basov, "Nanotextured phase coexistence in the correlated insulator V2O3", Nat Phys 13, 80 (2016).  doi:10.1038/nphys3882 [PDF]
+- S. Guenon, J. G. Ramirez, A. C. Basaran, J. Wampler, M. Thiemens, and I. K. Schuller, J Supercond Nov Magn 30, 297-304 (2016). 
+
+- Juan Gabriel Ramírez, J. de la Venta, Siming Wang, Thomas Saerbeck, Ali C. Basaran, X. Batlle, and Ivan K. Schuller, "Collective mode splitting in hybrid heterostructure", Phys. Rev. B 93, 214113 (2016).
+
+- D. Yazici, A. C. Basaran, J. G. Ramirez, I. K. Schuller, and M. B. Maple, Supercond. Sci. Technol. 29, 085015 (2016).
+
+- Tian, Y., A. A. Reijnders, G. B. Osterhoudt, I. Valmianski, J. G. Ramirez, C. Urban, R. Zhong, J. Schneeloch, G. Gu, I. Henslee and K. S. Burch, "Low vibration high numerical aperture automated variable temperature Raman microscope", Review of Scientific Instruments 87, 043105 (2016). 
+
+2015
+
+- S. Wang, J. G. Ramírez, and I. K. Schuller, "Avalanches in vanadium sesquioxide nano devices", Phys. Rev. B 92, 085150 (2015).
+
+- E. Abreu, S. Wang, J. G. Ramírez, M. Liu, J. Zhang, K. Geng, I. K. Schuller, and R. D. Averitt, "Dynamic conductivity scaling in photoexcited V2O3 thin films", Phys. Rev. B 92, 085130 (2015).
+
+- J. G. Ramírez, T. Saerbeck, S. Wang, J. trastoy, M. Malnou, J. Lesueur, J. P. Crocombette, J. E. Villegas, and I. K. Schuller, "Effect of disorder on the metal-insulator transition of vanadium oxides: Local versus global effects", Phys. Rev. B 91, 205123 (2015).
+
+- S. Guenon, J. G. Ramirez, A. C. Basaran, J. Wampler, M. Thiemens, S. Taylor, and I. K. Schuller, "Search for Superconductivity in Micrometeorites", Sci. Rep. 4, 7333 (2014). 
+
+2014
+
+- S. H. Dietze, M. J. Marsh, S. Wang, J. G. Ramirez, Z. H. Cai, J. R. Mohanty, I. K. Schuller, and O. G. Shpyrko, "X-ray-induced persistent photoconductivity in vanadium dioxide", Phys. Rev. B 90, 165109 (2014).
+- T. Saerbeck, J. de la Venta, S. Wang, J. G. Ramírez, M. erekhinsky, I. Valmianski, and I. K. Schuller, "Coupling of magnetism and structural phase transitions by interfacial strain", Journal of Materials Research 29, 2353 (2014).
+- J. G. Ramírez, A. C. Basaran, J. de la venta, J. Pereiro, and I. K. Schuller, "Magnetic field modulated microwave spectroscopy across phase transitions and the search for new superconductors", Rep. Prog. Phys. 77, 093902 (2014).
+- J. de la venta, S. Wang, T. Saerbeck, J. G. Ramirez, I. Valmianski, and I. K. Schuller,  "Coercivity enhancement in V2O3/Ni bilayers driven by nanoscale phase coexistence", Appl. Phys. Lett. 104, 062410 (2014). 
+
+2013
+
+- J. de la venta, A. C. Basaran, T. Grant, J. M. Gallardo-Amores, J. G. Ramirez, M. A. Alario-Franco, Z. Fisk, and I. K. Schuller, "Magnetism and the absence of superconductivity in the praseodymium–silicon system doped with carbon and boron", J. Magn. Magn. Mater. 340, 27 (2013).
+- J. de la venta, S. Wang, J. G. Ramirez, and I. K. Schuller, "Control of magnetism across metal to insulator transitions",  Appl. Phys. Lett. 102, 122404 (2013).
+- S. Guenon, S. Scharinger, S. Wang, J. G. Ramirez, D. Koelle, R. Kleiner, and I. K. Schuller, "Electrical breakdown in a V2O3 device at the insulator-to-metal transition", Europhys. Lett. 101, 57003 (2013).
+- J. G. Ramirez, R. Schmidt, A. Sharoni, M. E. Gómez, I. K. Schuller, and E. J. Patiño,  "Ultra-thin filaments revealed by the dielectric response across the metal-insulator transition in VO2", Appl. Phys. Lett. 102, 063110 (2013).
+- A. Zimmers, L. Aigouy, M. Mortier, A. Sharoni, S. Wang, K. G. West, J. G. Ramirez, and I. K. Schuller,  "Role of Thermal Heating on the Voltage Induced Insulator-Metal Transition in VO2", Phys. Rev. Lett. 110, 056601 (2013). 
+
+2012
+
+- P. Prieto, L. Marin, S. M. Diez, J. G. Ramirez, and M. E. Gómez, "Influence of Layer-Thickness Ratio on Magnetic Properties in F-La2/3Ca1/3MnO3/AF-La1/3Ca2/3MnO3 Bilayers",J. Supercond. Nov. Magn. 25, 2193 (2012).
+- M. K. Stewart, D. Brownstead, S. Wang, K. G. West, J. G. Ramirez, M. M. Qazilbash, N. B. Perkins, - I. K. Schuller, and D. N. Basov, "Insulator-to-metal transition and correlated metallic state of V2O3 investigated by optical spectroscopy", Phys. Rev. B 85, 205113 (2012).
+
+2010
+
+- L. Marin, J. G. Ramirez, and M. E. Gómez, "On the magnetic properties of F/AF Ca-doped lanthanum manganite bilayers: Approach to interface effects", J. Phys.: Conf. Ser. 200, 072064 (2010).
+- J. G. Ramirez, A. Sharoni, Y. Dubi, M. E. Gómez, and I. K. Schuller, "First-order reversal curve measurements of the metal-insulator transition in VO2: Signatures of persistent metallic domains", Phys. Rev. B 79, 235110 (2009).
+- A. Sharoni, J. Ramírez, and I. Schuller, "Multiple Avalanches across the Metal-Insulator Transition of Vanadium Oxide Nanoscaled Junctions", Phys. Rev. Lett. 101, 026404 (2008).
+- M. E. Gómez, G. Campillo, J. G. Ramirez, A. Hoffmann, and J. Guimpel, "Detailed magnetic and structural properties of exchange-biased La1-xCaxMnO3", Phys. Stat. Sol. (C) 4, 4181 (2007).
+- J. C. Caicedo, W. Saldarraiga, F. Pérez, J. G. Ramirez, M. E. Gómez, and P. Prieto, "Superconducting depression in thin films of YBa2Cu3O7-δ based on the variation of therelative humidity and the time", Superficies Y Vacío 20, 6 (2007).
+- M. E. Gómez, G. Campillo, J. G. Ramirez, P. Prieto, A. Hoffmann, J. Guimpel, N. Haberkorn, A. Condo, F. Lovey, M. E. Gómez, G. Campillo, J. G. Ramirez, P. Prieto, A. Hoffmann, J. Guimpel, N. Haberkorn, A. Condo, and F. Lovey, "Magnetotransport Properties in Epitaxial Exchange-Biased La2/3Ca1/3MnO3/La1/3Ca2/3MnO3 Superlattices",, IEEE Trans. Magn. 42, 2981 (2006).
+- J. G. Ramirez, A. Cortes, W. Lopera, M. E. Gómez, and P. Prieto, in Braz J Phys 36, 1066 (2006).
+L. Tirado-Mejia, J. G. Ramirez, M. E. Gómez, and H. Ariza-Calderon, in Braz J Phys, 36, 1070 (2006).
+- J. D. Uribe, J. Osorio, C. A. Barrero, D. Girata, A. L. Morales, A. Devia, M. E. Gómez, J. G. Ramirez, and J. R. Gancedo, "Hematite thin films: growth and characterisation", Hyperfine Interact 169, 1355 (2006).
+- O. Moran, M. E. Gómez, J. G. Ramirez, T. Schwarz, D. Fuchs, R. Hott, and R. Schneider, "Structural and magnetic properties of epitaxial ferromagnetic-antiferromagnetic manganite multilayers", in J Appl Phys 97, 10K116 (2005).
+- J. G. Ramirez, F. Pérez, M. E. Gómez, and P Prieto, "Statistical study of AFM images on manganite thin films", Phys. Stat. Sol. (C) 1, S13 (2004).
+
+## Articles in National Journals
+
+- M. E. Gómez, L. Marin, and J. G. Ramirez, Rev. Col. Fís. 44, 137 (2012).
+- L. Marin, M. E. Gómez, J. G. Ramirez, and A. Hoffmann, Rev. Col. Fís. 40, 17 (2008).
+- J. P. Echeverry, C. Calle, J. G. Ramirez, A. Mendoza, and M. E. Gómez, Rev. Col. Fís. 39, 601 (2007).
+- L. Marin, J. G. Ramirez, M. E. Gómez, A. Hoffmann, C. A. Quinayas, and G. Bolaños, Rev. Col. Fís. 39, 51 (2007).
+- C. W. Sánchez, J. G. Ramirez, M. E. Gómez, W. Lopera, and J. C. Caicedo, Rev. Col. Fís. 39, 131 (2007).
+- J. G. Ramirez, M. E. Gómez, F. Pérez, and P. Prieto, Rev. Col. Fís. 35, 30 (2003).
+- J. Prado, J. G. Ramirez, W. Lopera, M. E. Gómez, P. Prieto, E. Kaul, and J. Guimpel, Rev. Col. Fís. 40, 289 (2008).
+- J. C. Caicedo, W. Saldarraiga, F. Pérez, J. G. Ramirez, M. E. Gómez, P. Prieto, C. Cortés-Escobedo, and J. Muñoz-Saldaña, Rev. Col. Fís. 39, 313 (2007).
+- A. Cortes, E. Delgado, W. Lopera, J. G. Ramirez, H. Riascos, and P. Prieto, Rev. Col. Fís. 35, 448 (2003). 
