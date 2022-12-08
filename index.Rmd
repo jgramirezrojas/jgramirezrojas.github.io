@@ -1,5 +1,23 @@
 ---
-title: "Welcome to my website!"
+title: ""
 ---
 
-![alt text here](images/foto_juanG_webex.png)
+
+```{r out.width="300 px", echo=FALSE}
+knitr::include_graphics("images/foto_juanG_webex.png")
+```
+
+ 
+  Dr. Juan Gabriel Ramírez <br>
+  Associate Professor of Physics <br>
+  Universidad de los Andes <br>
+  Department of Physics <br>
+  Office: IP 303, <br>
+  Phone: +571 339-4949 Ext 3608 <br>
+  Cra 1 # 18A - 12 <br>
+  Bogotá 111711, Colombia <br>
+  email:jgramirez at uniandes.edu.co <br>
+
+  Google Scholar: [http://goo.gl/5VxePI](http://goo.gl/5VxePI) <br>
+  Lab page: [http://nanomag.uniandes.edu.co](http://nanomag.uniandes.edu.co) <br>
+ 

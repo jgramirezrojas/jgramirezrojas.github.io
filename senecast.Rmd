@@ -4,6 +4,10 @@ title: "Senecast"
 ---
 
 ## Podcast de Divulgación Científica - Uniandes
-![](images/senecast_logo.jpg) 
+
+```{r out.width="300 px", echo=FALSE}
+knitr::include_graphics("images/senecast_logo.jpg")
+```
+ 
 
 <a class="spreaker-player" href="https://www.spreaker.com/show/senecast" data-resource="show_id=4715206" data-theme="light" data-playlist="show" data-cover="https://d1bm3dmew779uf.cloudfront.net/cover/c0ec64280633b9b95e6aa7b9112d4c02.jpg" data-width="100%" data-height="400px">Listen to "Senecast" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
