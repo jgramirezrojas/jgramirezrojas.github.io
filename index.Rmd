@@ -10,8 +10,8 @@ knitr::include_graphics("images/foto_juanG_webex.png")
  
   Dr. Juan Gabriel Ramírez <br>
   Associate Professor of Physics <br>
-  Universidad de los Andes <br>
-  Department of Physics <br>
+  [Universidad de los Andes](https://uniandes.edu.co) <br>
+  [Department of Physics](https://fisica.uniandes.edu.co) <br>
   Office: IP 303, <br>
   Phone: +571 339-4949 Ext 3608 <br>
   Cra 1 # 18A - 12 <br>
