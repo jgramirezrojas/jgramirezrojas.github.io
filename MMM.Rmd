@@ -1,3 +1,109 @@
 ---
-title: "Magnetism and Magnetic Materials"
+title: "Magnetismo y Materiales Magnéticos"
+output:
+  html_document:
+    toc: true
+    toc_float: true
 ---
+
+
+
+- Código del curso: FISI-3708; FISI-3708
+- Unidad académica: Departamento de Física
+- Periodo académico 202120
+- Modalidad: Virtual
+- Horario: M-V, 3:30 - 4:50 pm
+- Nombre profesor(a) principal: Juan Gabriel Ramírez
+
+## Introducción
+
+Este curso pretende formar a los estudiantes en conceptos básicos del magnetismo, sus orígenes en materiales y los tipos de interacción que la causan. Adicionalmente, se pretende mostrar los modelos matemáticos que explican el origen de estas interacciones en sistemas híbridos y nano-estructuras. 
+
+El curso esta organizado en 4 partes: primero, una introducción, en la cual se repasar\'an los temas de los cursos de estado sólido y electromagnetismo, segundo, se hará un énfasis en los tipos de orden magnático con un tratamiento formal del magnetismo en sólidos, tercero, se expondrán los elementos básicos de transporte electrónico dependiente de espín (ó Espintrónica) y finalmente se hará una breve reseña de las  técnicas de caracterización básicas (VSM, MFM, etc) y avanzadas (Neutrones polarizados, dicroismo, etc)
+
+## Objetivos
+
+1. Ofrecer una visión general del origen del magnétismo en materiales magnéticos.
+2. Mostrar qué métodos experimentales se usan en la actualidad para caracterizar materiales magnéticos.
+3. Dar las bases para que el estudiante pueda entender temas avanzados en el area de Nanomagnétismo.
+
+## Competencias a desarrollar
+
+Al finalizar el curso, se espera que el estudiante esté en capacidad de:
+
+- Entender el origen del magnetismo en materiales.
+- Clasificar los tipos de acoplamiento magnético y dar ejemplos concretos.
+- Describir la importancia de la anisotropía en materiales magnéticos y conectarla con la estructura cristalina.
+- Entender los métodos experimentales usados para detectar magnetismo.
+- Diferenciar los efectos que resultan del acoplamiento entre espín y órbita.
+- Describir el funcionamiento de memorias magnéticas.
+
+## Competencias a desarrollar
+
+Al finalizar el curso, se espera que el estudiante esté en capacidad de:
+
+- Entender el origen del magnetismo en materiales.
+- Clasificar los tipos de acoplamiento magnético y dar ejemplos concretos.
+- Describir la importancia de la anisotropía en materiales magnéticos y conectarla con la estructura cristalina.
+- Entender los métodos experimentales usados para detectar magnetismo.
+- Diferenciar los efectos que resultan del acoplamiento entre espín y órbita.
+- Describir el funcionamiento de memorias magnéticas.
+
+
+## Contenido por semanas
+
+### Parte1: Magnetismo
+
+- Semana 1. Introducción, Origen del magnetismo y tipos de orden magnético, Magnetostática. 
+- Semana 2. Magnetismo de electrones localizados: Diamagnetismo y Paramagnetismo. 
+- Semana 3. Energía de Intercambio: Átomo de Helio, Molécula de Hidrógeno 
+- Semana 4. Acoplamiento Espín-Orbita y Campo Cristalino.
+- Semana 5. Ferromagnetismo, Antiferromagnetismo y otros ordenes magnéticos. Modelos de campo medio.
+- Semana 6. Sincrotrones y Magnetismo. Excitaciones colectivas: Magnones
+- Semana 7. Excitaciones colectivas: Magnones II. Transiciones de fase y rompimiento de simetría. 
+- Semana 8. Dominios magnéticos II, Modelo de Stoner-Wohlfarth para ferromagnetismo.
+- Semana 9. Magnetismo de electrones libres: Paramagnetismo de Pauli, Separación de bandas por espín
+- Semana 10. Magnetismo de electrones libres: Ondas de densidad de espín, Efecto Kondo, Modelo de Hubbard 
+- Semana 11. Interacciones, Frustración, vidrios de espín y superparamagnetismo
+
+
+### Parte 2: Aplicaciones y métodos experimentales
+
+- Semana 12. Micromagnetismo, Dominios magnéticos e histéresis y Curvas de primer orden. OOMMF y/o Ubermag 
+- Semana 13. Magnetismo a baja dimensionalidad: Películas delgadas y Nanopartículas. 
+- Semana 14.  Resonancia Magnética, EPR, FMR, RMN, Efecto Kerr. 
+- Semana 15. Almacenamiento magnético y espintrónica. Skyrmions y magnetismo topológico
+
+
+## Metodología
+
+La metodología del curso consta principalmente de clases teóricas virtuales acompañadas de talleres semanales que pretenden desarrollar las habilidades algebraicas necesarias para realizar cálculos teóricos (40\%). Adicionalmente se harán actividades como parte de las tareas semanales durante las sesiones virtuales. A mitad del curso, se hará un examen sobre los conceptos básicos de magnetismo y orden magnético (30\%). Se darán lecturas adicionales, en especial artículos científicos recientes, con la idea de familiarizar a los estudiantes con temas actuales. Los estudiantes seleccionarán un tema avanzado del programa sobre el cual trabajaran en un pequeño proyecto computacional y/o experimental dentro de las instalaciones del laboratorio de Nanomagnetismo. Sobre esto, presentarán una exposición final (20\%).
+
+
+## Criterios de evaluación
+
+- Problemas semanales (10 talleres): 70\%
+- Proyecto final: 30\%
+
+## Proyecto Final
+
+El proyecto final puede ser computacional basado en OOMMF o Ubermag donde se empleen los elementos vistos en clase. También podrá ser un proyecto experimental basado en alguno de los laboratorios de física y con relación en los temas del curso.
+
+
+## Bibliograía
+
+
+
+### Bibliografía principal:
+
+- Stephen Blundell, Magnetism in Condensed Matter, 2001, OUP Oxford. (Biblioteca General - Disponible como recurso electr\'onico)
+
+### Bibliografía complementaria:
+
+- B. D. Cullity, C. D. Graham. *Introduction to magnetic materials*, 2008. (Biblioteca General - Disponible como recurso electr\'onico)  
+- Nicola A. Spaldin *Magnetic Materials Fundamentals and Applications*, 2011. (Biblioteca General - 621.34 S614 (versi\'on del 2003))
+- Supriyo Bandyopadhyay, Mark Cahay. *Introduction to Spintronics*, 2008. (Biblioteca General - 621.381 B152)
+- R. E. Peierls. *Quantum Theory of Solids*, 2001. (Biblioteca General - 530.41 P232) 
+- S. V. Vonsovskii. *Ferromagnetic Resonance. The Phenomenon of Resonant Absorption of a High-Frequency Magnetic Field in Ferromagnetic Substances*, 1966. (Biblioteca General - Disponible como recurso electr\'onico) 
+- J. M. D. Coey, *Magnetism and magnetic material*, (Biblioteca General - 538. C529) 
+

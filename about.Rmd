@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Research"
 ---
 
 > 
@@ -20,15 +20,14 @@ I am a condensed matter physicist. My research is experiment-focused and is most
 
 My current interest are listed below. More information about our research at the Nanomag site.
 
-#### Complex oxides 
+## Tuning Multifunctional Properties of Complex Oxides
 
-At the moment, I am interested in tuning multifunctional properties of complex oxides via nano-structuration in the form of nanoparticles. Many interactions present in these materials have a length scale that can be accessed by varying the nanoparticle size, therefore, allowing for a control of the strength of their interactions. More info in Carranza-Celis et. al.,   Scientific Reports 9, 3182 (2019) .
+My current research focuses on exploring the multifunctional properties of complex oxides by tuning their nano-structure in the form of nanoparticles. By varying the size of these nanoparticles, we can control the strength of the interactions present in these materials, allowing us to access interactions with different length scales. Our recent work, published in Scientific Reports (Carranza-Celis et al., 2019), highlights our progress in this area.
 
-#### Multifuncttional properties
+## Novel Approaches to Multifunctional Properties
 
-We are interested in novel approaches (devices and properties) that use the multifunctional properties of oxide materials. For instance, Resistive Switching is at the core of implementations of Neuromorphic computing and Oxide systems based on Transition Metal elements. We are studying materials with multifunctional properties as candidates for future implementations of neuromorphic architectures.   J. del Valle et. al.,  J. Appl. Phys. 124, 211101 (2018)
+Our research group is dedicated to developing novel approaches to utilizing the multifunctional properties of oxide materials. We are particularly interested in Resistive Switching, a key technology in Neuromorphic Computing, and Oxide systems based on Transition Metal elements. By studying materials with multifunctional properties, we hope to identify promising candidates for future implementations of neuromorphic architectures. Our work on this topic has been published in the Journal of Applied Physics (del Valle et al., 2018).
 
-#### Proximity effects
+## Proximity Effects in Complex Oxides
 
-I propose to study proximity effects in complex oxides at the nano-scale. Oxides exhibit highly unique properties including collective phenomena such as magnetism, ferroelectricity, superconductivity, metal-insulator transitions, enhanced photoconductivity and electron transfer. Oxides also play a key role in both energy and information technologies. Examples include batteries, solar cells, catalysis, and miscellaneous electronic and magnetic devices.
-
+My proposed research focuses on studying the proximity effects in complex oxides at the nano-scale. These oxides exhibit highly unique properties, including collective phenomena such as magnetism, ferroelectricity, superconductivity, metal-insulator transitions, enhanced photoconductivity, and electron transfer. Oxides also play a crucial role in both energy and information technologies, such as batteries, solar cells, catalysis, and various electronic and magnetic devices. By studying proximity effects in complex oxides, we hope to uncover new insights into their properties and applications.

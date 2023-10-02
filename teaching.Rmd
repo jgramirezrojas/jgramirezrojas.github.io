@@ -3,6 +3,4 @@ title: "Teaching"
 ---
 
 
-## Header
-
-Currenttly teaching
+## Other courses 

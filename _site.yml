@@ -16,11 +16,16 @@ navbar:
       - text: "Publications"
         icon: fa-file-text 
         href: publications.html
+      - text: "Media"
+        icon: fa-video-camera 
+        href: media.html        
     - text: "Teaching"
       icon: fa-book-open
       menu:
-      - text: "Physics 101"
+      - text: "Physics 1018"
         href: physics_101.html
+      - text: "Physics 1028"
+        href: fisica2.html        
       - text: "Magnetism"
         href: MMM.html
       - text: "Other courses"
@@ -32,9 +37,6 @@ navbar:
     - text: "Contact"
       icon: fa-envelope-o
       href: mailto:jgramirez@uniandes.edu.co                    # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/jgramirezrojas       # CHANGE HERE 
     - text: "Podcast"
       icon: fa-podcast
       href: senecast.html
